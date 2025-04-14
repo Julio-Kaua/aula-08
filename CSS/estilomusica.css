@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Jersey+10&display=swap');
+*{
+	margin: 1px;
+	padding: 1px;
+}
+body{
+	background-image:url(../IMG/musicafun3.webp) ;
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh; 
+	background-attachment: fixed;
+}
+section.titulo{
+	height: 5vh;
+	width: 25vw;
+	margin-top: 0vh;
+	margin-left: 0vw;
+	background-color: rgb(255, 255, 255, 0.5);
+	border: 3px solid black;
+	border-radius: 10px;
+	flex-direction: column;
+	text-align: center;
+	display: flex;
+	color: solid black;
+}
+section.titulo h1{
+	font-family: "Goldman", sans-serif;
+	font-size: 1.7vw;
+	text-align: center;
+}
+section.menu{
+	justify-content:center;
+	display: flex;
+}
+section.menu{
+	height: 91vh;
+	width: 98.5vw;
+	margin-top: 0vh;
+	margin-left: 0vw;
+	background-color: rgb(255, 255, 255, 0.3);
+	border: 3px solid black;
+	border-radius: 16px;
+	text-align: center;
+}
+#texto{
+	height: 50vh;
+	width: 20vw;
+	font-family: "Goldman";
+	font-size: 1.9vw;
+	margin-left: 0vw;
+	display: flex;
+}
+#texto p{ s", sans-serif;
+	font-size: 10vw;
+	color: solid black;
+}
+#titulo{
+	height: 1vh;
+	width: 10vw;
+	display: flex;
+}
+#video video{
+	width: 25vw;
+	height: 50vh;
+	border-radius: 10px;
+}
+#video{
+	margin-left: 0vw;
+	margin-top: 20vh;
+}
+section.link{
+	width: 20%;
+	height: 5vh;
+	margin-top: 2vh;
+	margin-left: 80vw;
+	background-color: rgb(255, 255, 255, 0.5);
+	border: 2px ridge black;
+	border-radius: 12px;
+	text-align: center;
+	font-family: Goldman;
+	justify-content: center;
+	display: flex;
+	font-size: 2vw;
+	text-decoration: none;
+	display: block;
+}
+section.link div a{
+	text-decoration: none;
+	color: black;
+}
+#texto2{
+	height: auto;
+	width: auto;
+	font-family: "Goldman";
+	font-size: 0.9vw;
+	margin-top: 15vh;
+	margin-left: 65vw;
+	display: flex;
+	flex-direction:column ;
+}
+
+#texto3{
+	height: auto;
+	width: 200vw;
+	font-family: "Goldman";
+	font-size: 1.5vw;
+	margin-top: vh;
+}
+#texto4{
+	height: auto;
+	width: auto;
+	font-size: 2.0vw;
+	font-family: "Goldman";
+}
