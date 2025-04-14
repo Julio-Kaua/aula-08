@@ -4,7 +4,7 @@
 	padding: 1px;
 }
 body{
-	background-image:url(../IMG/musicafundo.jpg) ;
+	background-image:url(../img/musicafundo.jpg) ;
 	background-repeat: no-repeat;
 	background-size: 100vw 100vh;
 	background-attachment: fixed;
@@ -59,7 +59,7 @@ section.titulo{
 	border-radius: 12px;
 }
 section.titulo h1{
-	font-family: "Goldman", sans-serif;
+	font-family: "Goldman", sans-se-rif;
 	font-size: 3vw;
 }
 section.conteudo{
@@ -119,7 +119,7 @@ section.link div a{
 	list-style-type: square;
 	/*square- quadrado/ disc-bolinha/ circle- círculo/ numeric- números/ lower-alpha- letras minusculas/
 	upper-alpha- letra maiusculo/ lower-roman- romano minusculo/ upper-roman- romano maiusculo*/
-	list-style-image: url(../IMG/iconemapa3.png);
+	list-style-image: url(../img/iconemapa3.png);
 }
 #tabela{
 	width: 50%;
