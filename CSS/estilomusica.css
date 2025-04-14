@@ -71,7 +71,7 @@ section.link{
 	width: 20%;
 	height: 5vh;
 	margin-top: 2vh;
-	margin-left: 80vw;
+	margin-left: 37.5vw;
 	background-color: rgb(255, 255, 255, 0.5);
 	border: 2px ridge black;
 	border-radius: 12px;
@@ -100,10 +100,11 @@ section.link div a{
 
 #texto3{
 	height: auto;
-	width: 200vw;
+	width: 10vw;
 	font-family: "Goldman";
 	font-size: 1.5vw;
 	margin-top: vh;
+	margin-left: 42.4vw;
 }
 #texto4{
 	height: auto;
